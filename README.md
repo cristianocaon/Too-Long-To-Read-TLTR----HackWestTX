@@ -1,11 +1,9 @@
-*EDIT: Awarded First Place in the Hackaton!!!*
-
 # TLTR (Too Long To Read)
 TLTR is a Python-based project that reads "Terms and Conditions" inputted by the user and generates a score based on how invasive the terms are for the user. 
 
 The application analyze the inputted data, find keywords, and provides back to the user any important information he should know.
 
-This application is still under development and it was created during the HackWesTX Hackathon in Lubbock, TX. 
+This application is a POC and it was created during the HackWesTX Hackathon in Lubbock, TX. 
 
 ## Tools
 
